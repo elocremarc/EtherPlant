@@ -1,0 +1,20 @@
+{
+  "name": "Plant-Lapse-NFT",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/elocremarc/Plant-Lapse-NFT",
+  "author": "elocremarc <elocremarc@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node /backend/server.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.991.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
