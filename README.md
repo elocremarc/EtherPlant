@@ -1,3 +1,3 @@
 # Plant-Lapse-NFT
 
-https://plantnft.on.fleek.co/
+https://etherplant.on.fleek.co/
